@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master add");
         System.out.println("hot-fix test");
         System.out.println("测试是否真正推送");
+        System.out.println("测试gitee的同步");
     }
 }
